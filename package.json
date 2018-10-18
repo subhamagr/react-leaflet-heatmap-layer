@@ -69,6 +69,6 @@
     "lodash.min": "^4.0.0",
     "lodash.pluck": "^3.1.2",
     "lodash.reduce": "^4.3.0",
-    "simpleheat": "https://github.com/VostroNet/simpleheat"
+    "simpleheat": "https://github.com/VostroNet/simpleheat.git"
   }
 }
